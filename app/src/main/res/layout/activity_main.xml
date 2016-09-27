@@ -38,3 +38,6 @@
             android:text='@{nama== null || nama.equals("")? "" : "Nama Anda: "+nama}' />
 </LinearLayout>
 </layout>
+
+
+
